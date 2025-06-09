@@ -1,0 +1,12 @@
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.GeneratedMSBuildEditorConfig.editorconfig
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.AssemblyInfoInputs.cache
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.AssemblyInfo.cs
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.csproj.CoreCompileInputs.cache
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.sourcelink.json
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/bin/Debug/net8.0/CuentaAhorros.deps.json
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/bin/Debug/net8.0/CuentaAhorros.dll
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/bin/Debug/net8.0/CuentaAhorros.pdb
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.dll
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/refint/CuentaAhorros.dll
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/CuentaAhorros.pdb
+/home/liceth/Documentos/Ingenieria de Software/Proyecto pruebas con NUinit/tallerpruebasunitarias-Liceth02usma/ProyectoCuentaAhorros/src/CuentaAhorros/obj/Debug/net8.0/ref/CuentaAhorros.dll

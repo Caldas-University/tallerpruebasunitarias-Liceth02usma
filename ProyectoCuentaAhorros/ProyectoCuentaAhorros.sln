@@ -1,0 +1,2 @@
+dotnet sln ProyectoCuentaAhorros.sln add ProyectoCuentaAhorrosApp/ProyectoCuentaAhorrosApp.csproj
+dotnet sln ProyectoCuentaAhorros.sln add CuentaAhorros/CuentaAhorros.csproj
