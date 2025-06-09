@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentaAhorros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a3cdc16255aab545acca9eb2ddbdce294ec2b12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7c77e7f081170509333ecd4cc3cb63497c3550")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentaAhorros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentaAhorros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
