@@ -1,0 +1,37 @@
+[
+  {
+    "CuentaId": 1,
+    "EstaActiva": true,
+    "SaldoDisponible": 1000,
+    "LimiteRetiroDiario": 500,
+    "EstaBloqueadaPorFraude": false
+  },
+  {
+    "CuentaId": 2,
+    "EstaActiva": true,
+    "SaldoDisponible": 300,
+    "LimiteRetiroDiario": 200,
+    "EstaBloqueadaPorFraude": false
+  },
+  {
+    "CuentaId": 3,
+    "EstaActiva": false,
+    "SaldoDisponible": 500,
+    "LimiteRetiroDiario": 500,
+    "EstaBloqueadaPorFraude": false
+  },
+  {
+    "CuentaId": 4,
+    "EstaActiva": true,
+    "SaldoDisponible": 1500,
+    "LimiteRetiroDiario": 1000,
+    "EstaBloqueadaPorFraude": true
+  },
+  {
+    "CuentaId": 5,
+    "EstaActiva": true,
+    "SaldoDisponible": 800,
+    "LimiteRetiroDiario": 500,
+    "EstaBloqueadaPorFraude": false
+  }
+]
